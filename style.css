@@ -81,6 +81,9 @@ h1{
 .time small{
     font-size: 10px;
 }
+body{
+    height: 100vh;
+}
 }
 
 h2, small{
